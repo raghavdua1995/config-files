@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1546604568396,
-  "version": "1.17.4",
+  "timeStamp": 1551383844377,
+  "version": "1.18.4",
   "userSettings": {
     "advancedUserEnabled": true,
     "alwaysDetachLogger": true,
@@ -30,9 +30,9 @@
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/YouTubeEvenMorePureVideoExperience.txt",
     "https://raw.githubusercontent.com/raghavdua1995/my-ublock-filters/master/my-filters.txt",
     "fanboy-social",
-    "fanboy-annoyance",
     "fanboy-cookiemonster",
     "fanboy-thirdparty_social",
+    "adguard-social",
     "adguard-annoyance",
     "easyprivacy",
     "easylist",
@@ -45,9 +45,10 @@
   ],
   "hiddenSettings": {
     "assetFetchTimeout": 30,
+    "autoCommentFilterTemplate": "{{date}} {{origin}}",
     "autoUpdateAssetFetchPeriod": 120,
     "autoUpdatePeriod": 7,
-    "benchmarkingPane": false,
+    "cacheStorageAPI": "unset",
     "cacheStorageCompression": true,
     "cacheControlForFirefox1376932": "no-cache, no-store, must-revalidate",
     "debugScriptlets": false,
