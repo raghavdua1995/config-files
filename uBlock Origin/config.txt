@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1551383844377,
-  "version": "1.18.4",
+  "timeStamp": 1552800369697,
+  "version": "1.18.8",
   "userSettings": {
     "advancedUserEnabled": true,
     "alwaysDetachLogger": true,
@@ -40,7 +40,6 @@
     "ublock-abuse",
     "ublock-privacy",
     "ublock-badware",
-    "ublock-filters",
     "user-filters"
   ],
   "hiddenSettings": {
@@ -51,6 +50,7 @@
     "cacheStorageAPI": "unset",
     "cacheStorageCompression": true,
     "cacheControlForFirefox1376932": "no-cache, no-store, must-revalidate",
+    "consoleLogLevel": "unset",
     "debugScriptlets": false,
     "disableWebAssembly": false,
     "ignoreRedirectFilters": false,
@@ -58,8 +58,9 @@
     "manualUpdateAssetFetchPeriod": 500,
     "popupFontSize": "unset",
     "requestJournalProcessPeriod": 1000,
+    "selfieAfter": 11,
     "strictBlockingBypassDuration": 120,
-    "suspendTabsUntilReady": false,
+    "suspendTabsUntilReady": "unset",
     "userResourcesLocation": "unset"
   },
   "netWhitelist": "about-scheme\nchrome-extension-scheme\nchrome-scheme\nmoz-extension-scheme\nopera-scheme\nvivaldi-scheme\nwyciwyg-scheme",
