@@ -77,9 +77,6 @@ https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_
 https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Canvas-Font-Fingerprinting-pages/master/Canvas.txt
-https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Ads-tracker.txt
-https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Malware.txt
-https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Popads.txt
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
 https://raw.githubusercontent.com/CHEF-KOCH/Skype-Ad-Free/master/Skypeadsnulled.txt
 https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
@@ -116,7 +113,6 @@ https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
 https://raw.githubusercontent.com/michaeldimoudis/dnsmasq-antispy-pihole/master/dnsmasq-antispy.txt
 https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-https://raw.githubusercontent.com/MOxFIVE/4730cac715ef406bd8eac7b29335be4a/raw/d21fa08e97963edde372d0d3e50703c783c9c32e/Personal%2520Blocklist.txt
 https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/domain-list.txt
@@ -155,8 +151,7 @@ https://v.firebog.net/hosts/Prigent-Malware.txt
 https://v.firebog.net/hosts/Prigent-Phishing.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
-https://web.archive.org/web/20160221135711/https://adblock.gjtech.net/?format=unix-hosts
-https://web.archive.org/web/20170929150638if_/http://www.sa-blacklist.stearns.org:80/sa-blacklist/sa-blacklist.current.domains
+https://web.archive.org/web/20160221135711id_/https://adblock.gjtech.net/?format=unix-hosts
 https://www.dshield.org/feeds/suspiciousdomains_High.txt
 https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
@@ -171,8 +166,9 @@ https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.threatcrowd.org/feeds/domains.txt
 https://zeustracker.abuse.ch/blocklist.php?download=baddomains
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Anti-Corp/Spotify/Spotify-HOSTS.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/hosts/Spotifynulled.txt
 https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spotify.txt
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/spotifyads.txt
 https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/Thieus%20Hosts%20Spotify.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+https://raw.githubusercontent.com/Riddim/adblock-Spotify/master/hosts
