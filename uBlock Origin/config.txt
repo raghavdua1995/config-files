@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1552800369697,
-  "version": "1.18.8",
+  "timeStamp": 1559906737973,
+  "version": "1.19.6",
   "userSettings": {
     "advancedUserEnabled": true,
     "alwaysDetachLogger": true,
@@ -9,7 +9,7 @@
     "collapseBlocked": true,
     "colorBlindFriendly": false,
     "contextMenuEnabled": true,
-    "dynamicFilteringEnabled": true,
+    "dynamicFilteringEnabled": false,
     "externalLists": "https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt\nhttps://mute.bradconte.com/mute.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-Elsagate%20List.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/YouTubeEvenMorePureVideoExperience.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/YouTubeYetEvenMorePureVideoExperience.txt\nhttps://raw.githubusercontent.com/raghavdua1995/my-ublock-filters/master/my-filters.txt",
     "firewallPaneMinimized": true,
     "hyperlinkAuditingDisabled": true,
@@ -20,7 +20,7 @@
     "requestLogMaxEntries": 1000,
     "showIconBadge": true,
     "tooltipsDisabled": false,
-    "webrtcIPAddressHidden": false
+    "webrtcIPAddressHidden": true
   },
   "selectedFilterLists": [
     "https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt",
